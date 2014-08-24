@@ -752,8 +752,8 @@
           }
       },
       "0.14" : {
-          "recommended" : true,
-          "latest" : true,
+          "recommended" : false,
+          "latest" : false,
           "mcversion" : "1.7.10",
           "forgever" : "10.13.0.1208",
           "mods" : {
@@ -812,7 +812,7 @@
 	      "cookiecore" : "1.2.0"
           }
       },
-      "0.14" : {
+      "0.15" : {
           "recommended" : true,
           "latest" : true,
           "mcversion" : "1.7.10",
