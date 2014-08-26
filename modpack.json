@@ -1240,8 +1240,8 @@
           }
       },
       "1.2.1" : {
-          "recommended" : true,
-          "latest" : true,
+          "recommended" : false,
+          "latest" : false,
           "mcversion" : "1.7.10",
           "forgever" : "10.13.0.1208",
           "mods" : {
@@ -1299,7 +1299,7 @@
 	      "deathcounter" : "4.0.0"
           }
       },
-      "1.2.1" : {
+      "1.2.2" : {
           "recommended" : true,
           "latest" : true,
           "mcversion" : "1.7.10",
